@@ -35,5 +35,5 @@ Busco oportunidade como desenvolvedor backend júnior para evoluir tecnicamente 
 
 ## 📫 Contato
 
-- LinkedIn: (coloque aqui)
+- LinkedIn: https://linkedin.com/in/pedrochame
 - Email: pedrohik@gmail.com
