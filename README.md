@@ -21,7 +21,7 @@ API de gerenciamento de tarefas desenvolvida com FastAPI, com validação de dad
 ## 🛠️ Tecnologias
 
 - Python (Flask, FastAPI)
-- SQL / MySQL
+- SQL
 - APIs REST
 - HTML, CSS e JavaScript (básico)
 
