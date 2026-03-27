@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Pedro 👋
 
-<!--
-**pedrochame/pedrochame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor backend em formação, com foco em Python e desenvolvimento de APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos principais
+
+### 🎬 Meu Cinema
+Aplicação web com autenticação de usuários, integração com API externa (TMDB) e persistência de dados.
+
+🔗 https://meucine.netlify.app
+
+---
+
+### ⚡ Fastask
+API de gerenciamento de tarefas desenvolvida com FastAPI, com validação de dados e testes automatizados.
+
+---
+
+## 🛠️ Tecnologias
+
+- Python (Flask, FastAPI)
+- SQL / MySQL
+- APIs REST
+- HTML, CSS e JavaScript (básico)
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidade como desenvolvedor backend júnior para evoluir tecnicamente e contribuir com soluções reais.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (coloque aqui)
+- Email: pedrohik@gmail.com
